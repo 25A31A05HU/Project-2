@@ -19,7 +19,11 @@ public:
         cin >> ch;
         cout << "\n-------------------------------------------------" << endl;
         if(ch == 8)
+        {
+            cout << "Thank you for using our currency Converter!" << endl;
             exit(0);
+
+        }
         cout << "Enter the amount in foreign currency: ";
         cin >> amt;
 
