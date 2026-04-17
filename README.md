@@ -1,2 +1,2 @@
-# Project-2
-This is c++ project
+# Currency-Converter-CPP
+A C++ tool which converts different international currencies using real-time (static) exchange rates.
