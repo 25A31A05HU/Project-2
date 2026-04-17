@@ -18,7 +18,8 @@ Step-8: Stop
 
 # FLOWCHART
 
-<img width="577" height="1024" alt="image" src="https://github.com/user-attachments/assets/e86ecf89-79e8-43ff-a8bb-cca1256f72ac" />
+<img width="577" height="1024" alt="image" src="https://github.com/user-attachments/assets/e8b5f07b-6450-46bd-8f03-e792b598f4a3" />
+
 
 # INPUT
 
