@@ -22,26 +22,23 @@ public:
         {
             cout << "Thank you for using our currency Converter!" << endl;
             exit(0);
-
+        }
+        if(ch < 1 || ch > 7)
+        {
+            cout << "Invalid Choice! Please select a valid option(i.e., 1-8)." << endl;
+            exit(0);
         }
         cout << "Enter the amount in foreign currency: ";
         cin >> amt;
 
         switch (ch) {
-            case 1: result = amt * 92.46;
-                    cout << amt << " USD = " << result << " INR"; break; //US Dollar
-            case 2: result = amt * 300.11;
-                    cout << amt << " KWD = " << result << " INR"; break; //Kuwait Dinar
-            case 3: result = amt * 0.59;
-                    cout << amt << " JPY = " << result << " INR"; break; //Japanese Yen
-            case 4: result = amt * 66.50;
-                    cout << amt << " AUD = " << result << " INR"; break; //Australian Dollar
-            case 5: result = amt * 0.063;
-                    cout << amt << " KRW = " << result << " INR"; break; //South Korean Won
-            case 6: result = amt * 1.22;
-                    cout << amt << " RUB = " << result << " INR"; break; //Russian Ruble
-            case 7: result = amt * 18.56;
-                    cout << amt << " BRL = " << result << " INR"; break; //Brazilian Real
+            case 1: result = amt * 92.46;  cout << amt << " USD = " << result << " INR"; break; //US Dollar
+            case 2: result = amt * 300.11; cout << amt << " KWD = " << result << " INR"; break; //Kuwait Dinar
+            case 3: result = amt * 0.59;   cout << amt << " JPY = " << result << " INR"; break; //Japanese Yen
+            case 4: result = amt * 66.50;  cout << amt << " AUD = " << result << " INR"; break; //Australian Dollar
+            case 5: result = amt * 0.063;  cout << amt << " KRW = " << result << " INR"; break; //South Korean Won
+            case 6: result = amt * 1.22;   cout << amt << " RUB = " << result << " INR"; break; //Russian Ruble
+            case 7: result = amt * 18.56;  cout << amt << " BRL = " << result << " INR"; break; //Brazilian Real
             default: cout << "Invalid Choice";
         }
         cout << "\n-------------------------------------------------" << endl;
