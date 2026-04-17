@@ -48,6 +48,7 @@ Enter your choice between 1-8 from above: 1
 -------------------------------------------------
 Enter the amount in foreign currency: 10
 10 USD = 924.6 INR
+
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): yes
 ----- CURRENCY CONVERTER -----
@@ -64,6 +65,7 @@ Enter your choice between 1-8 from above: 2
 -------------------------------------------------
 Enter the amount in foreign currency: 10
 10 KWD = 3001.1 INR
+
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): y
 ----- CURRENCY CONVERTER -----
@@ -80,6 +82,7 @@ Enter your choice between 1-8 from above: 3
 -------------------------------------------------
 Enter the amount in foreign currency: 10
 10 JPY = 5.9 INR
+
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): Yes
 ----- CURRENCY CONVERTER -----
@@ -96,6 +99,7 @@ Enter your choice between 1-8 from above: 4
 -------------------------------------------------
 Enter the amount in foreign currency: 10
 10 AUD = 665 INR
+
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): YES
 ----- CURRENCY CONVERTER -----
@@ -112,6 +116,7 @@ Enter your choice between 1-8 from above: 5
 -------------------------------------------------
 Enter the amount in foreign currency: 10
 10 KRW = 0.63 INR
+
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): yes
 ----- CURRENCY CONVERTER -----
@@ -128,6 +133,7 @@ Enter your choice between 1-8 from above: 6
 -------------------------------------------------
 Enter the amount in foreign currency: 10
 10 RUB = 12.2 INR
+
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): yes
 ----- CURRENCY CONVERTER -----
@@ -144,6 +150,7 @@ Enter your choice between 1-8 from above: 7
 -------------------------------------------------
 Enter the amount in foreign currency: 10
 10 BRL = 185.6 INR
+
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): no
 Thank you for using our currency Converter!
