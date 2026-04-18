@@ -160,3 +160,15 @@ O(1)
 
 # Space Complexity
 O(1)
+
+# Currency Conversion Table
+Here are the specific formulas used in your code, based on the exchange rates you provided:
+
+## Currency           Code    Exchange Rate          Formula
+US Dollar          USD         92.46          INR=Amount×92.46
+Kuwaiti Dinar      KWD        300.11          INR=Amount×300.11
+Japanese Yen       JPY         0.59           INR=Amount×0.59
+Australian Dollar  AUD        66.50           INR=Amount×66.50
+South Korean Won   KRW        0.063           INR=Amount×0.063
+Russian Ruble      RUB         1.22           INR=Amount×1.22
+Brazilian Real     BRL        18.56           INR=Amount×18.56
