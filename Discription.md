@@ -53,6 +53,7 @@ Enter the amount in foreign currency: 10
 
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): yes
+
 ----- CURRENCY CONVERTER -----
 1. USD (US Dollar) to INR
 2. KWD (Kuwaiti Dinar) to INR
@@ -71,6 +72,7 @@ Enter the amount in foreign currency: 10
 
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): y
+
 ----- CURRENCY CONVERTER -----
 1. USD (US Dollar) to INR
 2. KWD (Kuwaiti Dinar) to INR
@@ -89,6 +91,7 @@ Enter the amount in foreign currency: 10
 
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): Yes
+
 ----- CURRENCY CONVERTER -----
 1. USD (US Dollar) to INR
 2. KWD (Kuwaiti Dinar) to INR
@@ -107,6 +110,7 @@ Enter the amount in foreign currency: 10
 
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): YES
+
 ----- CURRENCY CONVERTER -----
 1. USD (US Dollar) to INR
 2. KWD (Kuwaiti Dinar) to INR
@@ -125,6 +129,7 @@ Enter the amount in foreign currency: 10
 
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): yes
+
 ----- CURRENCY CONVERTER -----
 1. USD (US Dollar) to INR
 2. KWD (Kuwaiti Dinar) to INR
@@ -143,6 +148,7 @@ Enter the amount in foreign currency: 10
 
 -------------------------------------------------
 Enter 'yes' to convert another currency (no for exit): yes
+
 ----- CURRENCY CONVERTER -----
 1. USD (US Dollar) to INR
 2. KWD (Kuwaiti Dinar) to INR
