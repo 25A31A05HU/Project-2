@@ -48,6 +48,7 @@ Enter your choice between 1-8 from above: 1
 
 -------------------------------------------------
 Enter the amount in foreign currency: 10
+
 10 USD = 924.6 INR
 
 -------------------------------------------------
