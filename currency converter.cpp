@@ -7,6 +7,14 @@ public:
         double amt, result;
         void converter() {
         cout << "\n----- CURRENCY CONVERTER -----" << endl;
+        cout<<"Currency           Code    Exchange Rate          Formula"<< endl;
+        cout<<"US Dollar          USD         92.46          INR=Amount*92.46"<< endl;
+        cout<<"Kuwaiti Dinar      KWD        300.11          INR=Amount*300.11"<< endl;
+        cout<<"Japanese Yen       JPY         0.59           INR=Amount*0.59"<< endl;
+        cout<<"Australian Dollar  AUD        66.50           INR=Amount*66.50"<< endl;
+        cout<<"South Korean Won   KRW        0.063           INR=Amount*0.063"<< endl;
+        cout<<"Russian Ruble      RUB         1.22           INR=Amount*1.22"<< endl;
+        cout<<"Brazilian Real     BRL        18.56           INR=Amount*18.56"<< endl;
         cout << "1. USD (US Dollar) to INR" << endl;
         cout << "2. KWD (Kuwaiti Dinar) to INR" << endl;
         cout << "3. JPY (Japanese Yen) to INR" << endl;
