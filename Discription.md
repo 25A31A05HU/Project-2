@@ -23,15 +23,16 @@ Step-8: Stop
 
 # INPUT
 
-Step	  User Input   Amount(eg: 10)  	Expected Output Unit
-1	          1	            10	            USD to INR
-2	          2	            10	            KWD to INR
-3	          3	           	10	            JPY to INR
-4	          4	           	10	            AUD to INR
-5	          5		          10	            KRW to INR
-6	          6	           	10	            RUB to INR
-7	          7	           	10	            BRL to INR
-8	          8	          (None)	         Exits Program
+|Step	| User Input | Amount(eg: 10) |	Expected Output Unit
+| :--- | :--- | :--- | :--- |
+|1	   |      1	     |      10	     |       USD to INR
+|2	   |      2	     |      10       |       KWD to INR
+|3	   |      3	     |     	10	     |       JPY to INR
+|4     |      4	     |     	10	     |       AUD to INR
+|5	   |      5		   |      10	     |       KRW to INR
+|6	   |      6	     |     	10	     |       RUB to INR
+|7	   |      7	     |      10	     |       BRL to INR
+|8	   |      8	     |     (None)	   |      Exits Program
 
 # OUTPUT
 ----- CURRENCY CONVERTER -----
